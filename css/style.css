@@ -1,0 +1,21 @@
+.container {
+    background-color: black;
+}
+
+body {
+    text-align: center;
+}
+
+header {
+    color: white;
+}
+
+#illustration {
+    height: 400px;
+    margin-left: 50px;
+    background-color: red;
+}
+
+#reponse {
+    font-size: 18px;
+}
